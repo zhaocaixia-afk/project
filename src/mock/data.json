@@ -1,0 +1,60 @@
+{
+    "menu": [
+        { 
+            "icon": "el-icon-s-home", 
+            "text": "首页", 
+            "path": "home"
+        },
+        { 
+            "icon": "el-icon-video-play", 
+            "text": "开课开会", 
+            "path": "kaihui" 
+        },
+        { 
+            "icon": "el-icon-video-play", 
+            "text": "录播课程", 
+            "path": "kecheng"  
+        },
+        { 
+            "icon": "el-icon-video-play", 
+            "text": "数据结构", 
+            "path": "jieguo"  
+        },
+        { 
+            "icon": "el-icon-video-play", 
+            "text": "课程表", 
+            "path": "biao"  
+        },
+        { 
+            "icon": "el-icon-video-play", 
+            "text": "用户管理", 
+            "path": "guanli"  
+        }
+    ],
+    "count": [
+        { "bgColor": "#86c5f4", "title": "开课数量", "count": "367.000" },
+        { "bgColor": "#7ebc50", "title": "教师数量", "count": "12.000" },
+        { "bgColor": "#e96d66", "title": "直播次数", "count": "430.000" },
+        { "bgColor": "#eb7f63", "title": "录制视频个数", "count": "67.000" },
+        { "bgColor": "#dcac4d", "title": "节点数", "count": "26.000" },
+        { "bgColor": "#685f66", "title": "点播数", "count": "367.000" }
+    ],
+    "course": [
+        { "bgtitle": "大学奥数", "smalltitle": "北京市农业大学", "coursename": "北京市奥数课程", "people": "雪晴", "time": "12-30" },
+        { "bgtitle": "大学马克思", "smalltitle": "北京市农业大学", "coursename": "北京市奥数课程", "people": "雪晴", "time": "12-30" },
+        { "bgtitle": "大学英语", "smalltitle": "北京市农业大学", "coursename": "北京市奥数课程", "people": "雪晴", "time": "12-30" },
+        { "bgtitle": "大学理论课", "smalltitle": "北京市农业大学", "coursename": "北京市奥数课程", "people": "雪晴", "time": "12-30" }
+    ],
+    "formword": [
+        { "icon": "iconhudong", "title": "赵老师互动模板", "btn": "开课" },
+        { "icon": "iconwj-bjb", "title": "赵老师教学模板", "btn": "开课" },
+        { "icon": "iconhuiyishi", "title": "北京001会议室模板", "btn": "会议" },
+        { "icon": "iconwj-bjb", "title": "赵老师教学模板", "btn": "开课" },
+        { "icon": "iconwj-bjb", "title": "赵老师教学模板", "btn": "开课" }
+    ],
+    "wait": [
+        { "img": "马", "title": "北京中关村农大马克思理论课程", "name": "雪晴", "data": "2017-07-31", "time": "14:31", "bgColor": "#34aa54" },
+        { "img": "ke", "title": "北京中关村农大马克思理论课程", "name": "雪晴", "data": "2017-07-31", "time": "14:31", "bgColor": "#d26e44" },
+        { "img": "思", "title": "北京中关村农大马克思理论课程", "name": "雪晴", "data": "2017-07-31", "time": "14:31", "bgColor": "#057aa0" }
+    ]
+}
